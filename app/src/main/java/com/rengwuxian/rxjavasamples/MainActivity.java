@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.bind(this);
 
         setSupportActionBar(toolBar);
+        //this edit by web.
 
         viewPager.setAdapter(new FragmentPagerAdapter(getFragmentManager()) {
             @Override
