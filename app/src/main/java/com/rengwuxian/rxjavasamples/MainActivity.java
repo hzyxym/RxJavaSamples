@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
         setSupportActionBar(toolBar);
         //this edit by xxx.
-        //this is the second line.
+        //this is the second line .
 
         viewPager.setAdapter(new FragmentPagerAdapter(getFragmentManager()) {
             @Override
