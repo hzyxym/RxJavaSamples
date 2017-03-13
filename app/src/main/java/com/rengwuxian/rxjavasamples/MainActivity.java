@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         //this is the second line.
         //this is the third line.
         // this line is conflict
+        // function()
 
         viewPager.setAdapter(new FragmentPagerAdapter(getFragmentManager()) {
             @Override
